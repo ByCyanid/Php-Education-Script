@@ -62,7 +62,7 @@ CREATE TABLE `data_users` (
 --
 
 INSERT INTO `data_users` (`id`, `username`, `password`, `adsoyad`, `telefon`, `email`, `durum`) VALUES
-(1, 'efeeo', 'efeeo123', 'Efe', '05468502557', 'efeeoffical@gmail.com', 0);
+(1, 'ogrenci', 'ogrenci123', 'Ogrenci', '0555555555', 'ogrenci@ogrenci.com', 0);
 
 -- --------------------------------------------------------
 
@@ -102,7 +102,7 @@ CREATE TABLE `site_data` (
 --
 
 INSERT INTO `site_data` (`id`, `site_name`, `site_aciklama`) VALUES
-(1, 'TeknoRol Eğitim', 'Teknolojide Rolünüz Olsun');
+(1, 'X-Eğitim', 'XXXXXX');
 
 -- --------------------------------------------------------
 
