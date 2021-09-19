@@ -1,0 +1,48 @@
+[14-Sep-2021 21:51:28 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'VTUSER'@'localhost' (using password: YES) in /home/teknorol/public_html/egitim/config.php on line 6
+[14-Sep-2021 21:51:28 Europe/Istanbul] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/teknorol/public_html/egitim/config.php on line 7
+[14-Sep-2021 21:51:28 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/teknorol/public_html/egitim/index.php on line 4
+[14-Sep-2021 21:51:28 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/teknorol/public_html/egitim/index.php on line 5
+[14-Sep-2021 21:51:28 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/teknorol/public_html/egitim/index.php on line 6
+[14-Sep-2021 21:51:28 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/teknorol/public_html/egitim/index.php on line 7
+[14-Sep-2021 21:51:37 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'VTUSER'@'localhost' (using password: YES) in /home/teknorol/public_html/egitim/config.php on line 6
+[14-Sep-2021 21:51:37 Europe/Istanbul] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/teknorol/public_html/egitim/config.php on line 7
+[14-Sep-2021 21:51:37 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/teknorol/public_html/egitim/register.php on line 4
+[14-Sep-2021 21:51:37 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/teknorol/public_html/egitim/register.php on line 5
+[14-Sep-2021 21:51:37 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/teknorol/public_html/egitim/register.php on line 6
+[14-Sep-2021 21:51:37 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/teknorol/public_html/egitim/register.php on line 7
+[14-Sep-2021 21:52:08 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'VTUSER'@'localhost' (using password: YES) in /home/teknorol/public_html/egitim/config.php on line 6
+[14-Sep-2021 21:52:08 Europe/Istanbul] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/teknorol/public_html/egitim/config.php on line 7
+[14-Sep-2021 21:52:08 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/teknorol/public_html/egitim/index.php on line 4
+[14-Sep-2021 21:52:08 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/teknorol/public_html/egitim/index.php on line 5
+[14-Sep-2021 21:52:08 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/teknorol/public_html/egitim/index.php on line 6
+[14-Sep-2021 21:52:08 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/teknorol/public_html/egitim/index.php on line 7
+[14-Sep-2021 21:53:30 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'VTUSER'@'localhost' (using password: YES) in /home/teknorol/public_html/egitim/config.php on line 6
+[14-Sep-2021 21:53:30 Europe/Istanbul] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/teknorol/public_html/egitim/config.php on line 7
+[14-Sep-2021 21:53:30 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/teknorol/public_html/egitim/index.php on line 4
+[14-Sep-2021 21:53:30 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/teknorol/public_html/egitim/index.php on line 5
+[14-Sep-2021 21:53:30 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/teknorol/public_html/egitim/index.php on line 6
+[14-Sep-2021 21:53:30 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/teknorol/public_html/egitim/index.php on line 7
+[14-Sep-2021 21:53:44 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'VTUSER'@'localhost' (using password: YES) in /home/teknorol/public_html/egitim/config.php on line 6
+[14-Sep-2021 21:53:44 Europe/Istanbul] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/teknorol/public_html/egitim/config.php on line 7
+[14-Sep-2021 21:53:44 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/teknorol/public_html/egitim/index.php on line 4
+[14-Sep-2021 21:53:44 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/teknorol/public_html/egitim/index.php on line 5
+[14-Sep-2021 21:53:44 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/teknorol/public_html/egitim/index.php on line 6
+[14-Sep-2021 21:53:44 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/teknorol/public_html/egitim/index.php on line 7
+[14-Sep-2021 21:54:35 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'VTUSER'@'localhost' (using password: YES) in /home/teknorol/public_html/egitim/config.php on line 6
+[14-Sep-2021 21:54:35 Europe/Istanbul] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/teknorol/public_html/egitim/config.php on line 7
+[14-Sep-2021 21:54:35 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/teknorol/public_html/egitim/index.php on line 4
+[14-Sep-2021 21:54:35 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/teknorol/public_html/egitim/index.php on line 5
+[14-Sep-2021 21:54:35 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/teknorol/public_html/egitim/index.php on line 6
+[14-Sep-2021 21:54:35 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/teknorol/public_html/egitim/index.php on line 7
+[14-Sep-2021 21:58:35 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'VTUSER'@'localhost' (using password: YES) in /home/teknorol/public_html/egitim/config.php on line 6
+[14-Sep-2021 21:58:35 Europe/Istanbul] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/teknorol/public_html/egitim/config.php on line 7
+[14-Sep-2021 21:58:35 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/teknorol/public_html/egitim/index.php on line 4
+[14-Sep-2021 21:58:35 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/teknorol/public_html/egitim/index.php on line 5
+[14-Sep-2021 21:58:35 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/teknorol/public_html/egitim/index.php on line 6
+[14-Sep-2021 21:58:35 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/teknorol/public_html/egitim/index.php on line 7
+[14-Sep-2021 21:58:53 Europe/Istanbul] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'VTUSER'@'localhost' (using password: YES) in /home/teknorol/public_html/egitim/config.php on line 6
+[14-Sep-2021 21:58:53 Europe/Istanbul] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/teknorol/public_html/egitim/config.php on line 7
+[14-Sep-2021 21:58:53 Europe/Istanbul] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/teknorol/public_html/egitim/index.php on line 4
+[14-Sep-2021 21:58:53 Europe/Istanbul] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/teknorol/public_html/egitim/index.php on line 5
+[14-Sep-2021 21:58:53 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/teknorol/public_html/egitim/index.php on line 6
+[14-Sep-2021 21:58:53 Europe/Istanbul] PHP Notice:  Trying to access array offset on value of type null in /home/teknorol/public_html/egitim/index.php on line 7
